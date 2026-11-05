@@ -1,0 +1,73 @@
+﻿atividade_agro,grupo_cnae,cnae_subclasse,cnae_subclasse_label
+Agricultura,0111,0111301,Cultivo de Arroz
+Agricultura,0111,0111302,Cultivo de Milho
+Agricultura,0111,0111303,Cultivo de Trigo
+Agricultura,0111,0111399,Cultivo de Outros Cereais não Especificados Anteriormente
+Agricultura,0112,0112101,Cultivo de Algodão Herbáceo
+Agricultura,0112,0112199,Cultivo de Outras Fibras de Lavoura Temporária não Especificadas Anteriormente
+Agricultura,0113,0113000,Cultivo de Cana-De-Açúcar
+Agricultura,0115,0115600,Cultivo de Soja
+Agricultura,0116,0116499,Cultivo de Outras Oleaginosas de Lavoura Temporária não Especificadas Anteriormente
+Agricultura,0119,0119901,Cultivo de Abacaxi
+Agricultura,0119,0119905,Cultivo de Feijão
+Agricultura,0119,0119906,Cultivo de Mandioca
+Agricultura,0119,0119908,Cultivo de Melancia
+Agricultura,0119,0119909,Cultivo de Tomate Rasteiro
+Agricultura,0119,0119999,Cultivo de Outras Plantas de Lavoura Temporária não Especificadas Anteriormente
+Agricultura,0121,0121101,"Horticultura, Exceto Morango"
+Agricultura,0122,0122900,Cultivo de Flores e Plantas Ornamentais
+Agricultura,0131,0131800,Cultivo de Laranja
+Agricultura,0132,0132600,Cultivo de Uva
+Agricultura,0133,0133401,Cultivo de Açaí
+Agricultura,0133,0133402,Cultivo de Banana
+Agricultura,0133,0133403,Cultivo de Caju
+Agricultura,0133,0133404,"Cultivo de Cítricos, Exceto Laranja"
+Agricultura,0133,0133405,Cultivo de Coco-Da-Baía
+Agricultura,0133,0133409,Cultivo de Maracujá
+Agricultura,0133,0133499,Cultivo de Frutas de Lavoura Permanente não Especificadas Anteriormente
+Agricultura,0134,0134200,Cultivo de Café
+Agricultura,0139,0139304,"Cultivo de Plantas para Condimento, Exceto Pimenta-Do-Reino"
+Agricultura,0139,0139305,Cultivo de Dendê
+Agricultura,0139,0139306,Cultivo de Seringueira
+Agricultura,0139,0139399,Cultivo de Outras Plantas de Lavoura Permanente não Especificadas Anteriormente
+Agricultura,0141,0141501,"Produção de Sementes Certificadas, Exceto de Forrageiras para Pasto"
+Agricultura,0141,0141502,Produção de Sementes Certificadas de Forrageiras para Formação de Pasto
+Agricultura,0142,0142300,"Produção de Mudas e Outras Formas de Propagação Vegetal, Certificadas"
+Agricultura,0161,0161001,Serviço de Pulverização e Controle de Pragas Agrícolas
+Agricultura,0161,0161002,Serviço de Poda de árvores para Lavouras
+Agricultura,0161,0161003,"Serviço de Preparação de Terreno, Cultivo e Colheita"
+Agricultura,0161,0161099,Atividades de Apoio à Agricultura não Especificadas Anteriormente
+Agricultura,0163,0163600,Atividades de Pós-Colheita
+Pecuária,0151,0151201,Criação de Bovinos para Corte
+Pecuária,0151,0151202,Criação de Bovinos para Leite
+Pecuária,0151,0151203,"Criação de Bovinos, Exceto para Corte e Leite"
+Pecuária,0152,0152101,Criação de Bufalinos
+Pecuária,0152,0152102,Criação de EqüInos
+Pecuária,0152,0152103,Criação de Asininos e Muares
+Pecuária,0153,0153901,Criação de Caprinos
+Pecuária,0153,0153902,"Criação de Ovinos, Inclusive para Produção de Lã"
+Pecuária,0154,0154700,Criação de Suínos
+Pecuária,0155,0155501,Criação de Frangos para Corte
+Pecuária,0155,0155502,Produção de Pintos de Um Dia
+Pecuária,0155,0155503,"Criação de Outros Galináceos, Exceto para Corte"
+Pecuária,0155,0155504,"Criação de Aves, Exceto Galináceos"
+Pecuária,0155,0155505,Produção de Ovos
+Pecuária,0159,0159801,Apicultura
+Pecuária,0159,0159802,Criação de Animais de Estimação
+Pecuária,0159,0159899,Criação de Outros Animais não Especificados Anteriormente
+Pecuária,0162,0162801,Serviço de Inseminação Artificial em Animais
+Pecuária,0162,0162802,Serviço de Tosquiamento de Ovinos
+Pecuária,0162,0162803,Serviço de Manejo de Animais
+Pecuária,0162,0162899,Atividades de Apoio à Pecuária não Especificadas Anteriormente
+Silvicultura e Florestal,0210,0210101,Cultivo de Eucalipto
+Silvicultura e Florestal,0210,0210104,Cultivo de Teca
+Silvicultura e Florestal,0210,0210105,"Cultivo de Espécies Madeireiras, Exceto Eucalipto, Acácia-Negra, Pinus e Teca"
+Silvicultura e Florestal,0210,0210106,Cultivo de Mudas em Viveiros Florestais
+Silvicultura e Florestal,0210,0210107,Extração de Madeira em Florestas Plantadas
+Silvicultura e Florestal,0210,0210108,Produção de Carvão Vegetal - Florestas Plantadas
+Silvicultura e Florestal,0210,0210199,Produção de Produtos Não-Madeireiros não Especificados Anteriormente em Florestas Plantadas
+Silvicultura e Florestal,0220,0220901,Extração de Madeira em Florestas Nativas
+Silvicultura e Florestal,0220,0220902,Produção de Carvão Vegetal - Florestas Nativas
+Silvicultura e Florestal,0220,0220904,Coleta de Látex em Florestas Nativas
+Silvicultura e Florestal,0220,0220999,Coleta de Produtos Não-Madeireiros não Especificados Anteriormente em Florestas Nativas
+Silvicultura e Florestal,0230,0230600,Atividades de Apoio à Produção Florestal
